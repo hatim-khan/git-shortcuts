@@ -1,7 +1,10 @@
 # git-shortcuts
 Shortcuts/Aliases for Git
 
-Here's a list of the aliases I find useful for Git. Please feel free to add aliases that you use too!
+Here's a list of the aliases I find useful with using Git in the terminal. To make add these to your terminal, do the following:
+
+1. Copy and paste the contents of GitAliases.txt into your .bashrc or .zshrc file, which you can find at: ```~/.zshrc``` on Mac
+2. Then, run ```source ~/.zshrc``` to have the aliases set in your terminal
 
 * alias gs="git status"
 * alias gap="git add -p"
